@@ -108,7 +108,7 @@ const Post = ({ post }) => {
 
 	const isMyPost = authUser._id === post.user._id;
 
-	const formattedDate = "1h";
+	const formattedDate = "";
 
 	// const isCommenting = false;
 
